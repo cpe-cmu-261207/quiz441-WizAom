@@ -5,3 +5,6 @@
 * เมื่อทำเสร็จ จงแชร์ลิงค์ของแอพพลิเคชันที่ deploy ด้วย heroku ไว้ใน readme.md นี้
 * จงเขียนชื่อ-นามสกุล และรหัสของนักศึกษา ลงในไฟล์ readme.md นี้ 
 
+https://quiz441wizaom.herokuapp.com/
+NAME : SARINYA PAMONTREE
+STUDENT CODE : 620610810
